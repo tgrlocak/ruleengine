@@ -65,4 +65,4 @@ send();
 
 setInterval(function() {
     send();
-}, 5000);
+}, 60000);
